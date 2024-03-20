@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff50b41f415433df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/1. Первое занятие 20.03.2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,9 +171,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ff6962c5bc7730e5",
+  "active": "ff50b41f415433df",
   "lastOpenFiles": [
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/2. Второе занятие.md",
-    "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/1. Первое занятие 20.03.2024.md"
+    "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/1. Первое занятие 20.03.2024.md",
+    "Notes/Notes/Readme.md",
+    "Диаграмма.svg",
+    "Diagram.svg",
+    "Диаграмма.svg.xml",
+    "Diagram.svg.xml"
   ]
 }
