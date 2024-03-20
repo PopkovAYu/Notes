@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "a954c9db73860a33",
+    "type": "split",
+    "children": [
+      {
+        "id": "97988d1a6f3dd119",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ed9360a1c43f399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/2. Второе занятие.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a8dd2e32330998d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/1. Первое занятие 20.03.2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3870709804408d6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f1c60a2e0b6cff0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff6962c5bc7730e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3da03ae9c95f27e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1708336d75442406",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a2374772b86b53e",
+    "type": "split",
+    "children": [
+      {
+        "id": "483a447782846c46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "107169bca6df7127",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/1. Первое занятие 20.03.2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a444af962c2b46c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/1. Первое занятие 20.03.2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18a97d4d5b34a37a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b96696a7c3a6da9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/1. Первое занятие 20.03.2024.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "ff6962c5bc7730e5",
+  "lastOpenFiles": [
+    "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/2. Второе занятие.md",
+    "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/1. Первое занятие 20.03.2024.md"
+  ]
+}
