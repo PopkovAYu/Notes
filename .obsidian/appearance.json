@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "pagebreake"
   ],
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "theme": "moonstone"
 }
