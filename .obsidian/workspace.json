@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "f22f3602b2a38130",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
             "id": "ff50b41f415433df",
             "type": "leaf",
             "state": {
@@ -68,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -198,7 +208,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "85f6d31e5279fc13",
+  "active": "f22f3602b2a38130",
   "lastOpenFiles": [
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/ИС.png",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/1. Обзор информационных систем 20-21.03.2024.md",
