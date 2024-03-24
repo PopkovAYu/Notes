@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/Гибкие методологии - Scrum, eXtreme programming и Kanban 24.03.2024.md",
+                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/4. Гибкие методологии - Scrum, eXtreme programming и Kanban 24.03.2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/Гибкие методологии - Scrum, eXtreme programming и Kanban 24.03.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/Гибкие методологии - Scrum, eXtreme programming и Kanban 24.03.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/Гибкие методологии - Scrum, eXtreme programming и Kanban 24.03.2024.md"
+                "file": "Excalidraw/Drawing 2024-03-24 10.04.01.excalidraw.md"
               }
             }
           }
@@ -187,10 +185,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3f99d926d28e3eb",
+  "active": "ff6962c5bc7730e5",
   "lastOpenFiles": [
+    "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/4. Гибкие методологии - Scrum, eXtreme programming и Kanban 24.03.2024.md",
+    "Excalidraw/Drawing 2024-03-24 10.04.01.excalidraw.md",
+    "Excalidraw",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/3. Что такое Agile и как его применять 23.03.2024.md",
-    "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/Гибкие методологии - Scrum, eXtreme programming и Kanban 24.03.2024.md",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/attachments/Pasted image 20240323184716.png",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/attachments/Pasted image 20240323184403.png",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/attachments/Pasted image 20240323184238.png",
@@ -221,7 +221,6 @@
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 0. Вводная информация/attachments",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 0. Вводная информация/2. Аналитики а IT-проектах.md",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 0. Вводная информация",
-    "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 1. Жизненный цикл ПО/model_1.bpmn",
     "Notes/Notes/Readme.md"
   ]
 }
