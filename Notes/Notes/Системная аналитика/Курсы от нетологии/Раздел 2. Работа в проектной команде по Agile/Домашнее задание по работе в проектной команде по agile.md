@@ -27,6 +27,6 @@ https://miro.com/app/board/uXjVKcm0z5s=/?moveToWidget=3458764583820785337&cot=14
 **Эталонное решение:**
 https://miro.com/app/board/uXjVMIrEPbQ=/?moveToWidget=3458764554398445878&cot=14
 
-Анализ:
+**Анализ:**
 - Некорректно оценил Ease
 - Приоритеты задач совпали с небольшой погрешностью. Но в целом оценка верна
