@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "350c550244214236",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +161,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "442b8e25a42d6e6c",
+  "active": "350c550244214236",
   "lastOpenFiles": [
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/3. Методы формализации требований - по классификации.md",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/2. Методы сбора требований.md",
