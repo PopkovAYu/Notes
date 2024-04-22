@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/5. User stories и job stories.md",
+                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/6. UML. Диаграмма классов.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/5. User stories и job stories.md",
+                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/6. UML. Диаграмма классов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/5. User stories и job stories.md",
+                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/6. UML. Диаграмма классов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/5. User stories и job stories.md"
+                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/6. UML. Диаграмма классов.md"
               }
             }
           },
@@ -178,16 +178,17 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bpmn-plugin:New BPMN": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
+      "bpmn-plugin:New BPMN": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "c58c0514c3089607",
   "lastOpenFiles": [
-    "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/Домашнее задание по User Stories.md",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/5. User stories и job stories.md",
+    "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/6. UML. Диаграмма классов.md",
+    "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/Домашнее задание по User Stories.md",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/4. Business canvas model.md",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/3. Методы формализации требований - по классификации.md",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/Домашнее задание по Buisness Canvas Model.md",
@@ -213,7 +214,6 @@
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/9. Диаграммы активности и последовательности.md",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/8. Описание вариантов использования.md",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/7. Диаграмма вариантов использования.md",
-    "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/6. UML. Диаграмма классов.md",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/10. Согласование и управление изменениями требований.md",
     "conflict-files-obsidian-git.md",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 2. Работа в проектной команде по Agile/Домашнее задание по работе в проектной команде по agile.md",
