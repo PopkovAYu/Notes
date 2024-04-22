@@ -33,6 +33,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "e48247353c0ea786",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81a7c615a3800b9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/6. UML. Диаграмма классов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +190,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "564859ebbe0fcf6d",
+  "active": "81a7c615a3800b9c",
   "lastOpenFiles": [
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/attachments/Pasted image 20240420093651.png",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/attachments/Pasted image 20240420093918.png",
