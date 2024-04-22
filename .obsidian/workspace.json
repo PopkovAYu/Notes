@@ -4,47 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "837e501a6031ef52",
-        "type": "tabs",
+        "id": "95d48b0cd63c50cd",
+        "type": "split",
         "children": [
           {
-            "id": "4e04a9085baebace",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/4. Business canvas model.md",
-                "mode": "source",
-                "source": false
+            "id": "837e501a6031ef52",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4e04a9085baebace",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/4. Business canvas model.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "564859ebbe0fcf6d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/5. User stories и job stories.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c58c0514c3089607",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/6. UML. Диаграмма классов.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 2
           },
           {
-            "id": "564859ebbe0fcf6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/5. User stories и job stories.md",
-                "mode": "source",
-                "source": false
+            "id": "6a8350202baa4e29",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b50f13b3ecbbfd6c",
+                "type": "leaf",
+                "state": {
+                  "type": "diagrams-net",
+                  "state": {}
+                }
               }
-            }
-          },
-          {
-            "id": "c58c0514c3089607",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/6. UML. Диаграмма классов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -186,6 +207,7 @@
   },
   "active": "c58c0514c3089607",
   "lastOpenFiles": [
+    "attachments",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/attachments/Pasted image 20240420093918.png",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/attachments/Pasted image 20240420093651.png",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/attachments/Diagram 3.svg",
@@ -202,7 +224,6 @@
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 2. Работа в проектной команде по Agile/attachments/Pasted image 20240321222809.png",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 2. Работа в проектной команде по Agile/attachments/Pasted image 20240321223739.png",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 2. Работа в проектной команде по Agile/attachments/Pasted image 20240328064512.png",
-    "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 2. Работа в проектной команде по Agile/attachments/Pasted image 20240331182557.png",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/Домашнее задание по методам формализации требований.md",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/attachments/Diagram.svg.xml",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/2. Методы сбора требований.md",
