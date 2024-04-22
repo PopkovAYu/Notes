@@ -9,6 +9,6 @@
   },
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "./attachments",
+  "attachmentFolderPath": "./:\"Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/attachments",
   "newFileLocation": "current"
 }
