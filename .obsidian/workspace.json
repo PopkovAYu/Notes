@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +192,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "faf4b36b4a2bfafb",
+  "active": "9fbf83a37e4998f5",
   "lastOpenFiles": [
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/attachments/Pasted image 20240423135539.png",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/attachments/Pasted image 20240423134803.png",
