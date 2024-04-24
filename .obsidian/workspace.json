@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/4. Business canvas model.md",
+                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/Итоговая работа по модулю.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/4. Business canvas model.md",
+                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/Итоговая работа по модулю.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/4. Business canvas model.md",
+                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/Итоговая работа по модулю.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/4. Business canvas model.md"
+                "file": "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/Итоговая работа по модулю.md"
               }
             }
           },
@@ -185,8 +185,9 @@
   },
   "active": "fcb484371c324cd3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/Домашнее задание по User Stories.md",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/4. Business canvas model.md",
+    "conflict-files-obsidian-git.md",
     "Notes/Notes/Системная аналитика/Курсы от нетологии/Раздел 3. Анализ требований/Итоговая работа по модулю.md"
   ]
 }
