@@ -9,6 +9,7 @@
   "generateTaggedPDF": false,
   "displayMetadata": false,
   "debug": false,
+  "isTimestamp": false,
   "prevConfig": {
     "pageSize": "A4",
     "marginType": "1",
