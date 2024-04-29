@@ -4,5 +4,6 @@
     "pagebreake"
   ],
   "cssTheme": "Minimal",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "baseFontSizeAction": true
 }
