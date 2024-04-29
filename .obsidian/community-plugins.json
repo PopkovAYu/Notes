@@ -10,5 +10,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-link-converter",
   "lapel",
-  "obsidian-plantuml"
+  "obsidian-plantuml",
+  "better-export-pdf"
 ]
