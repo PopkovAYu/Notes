@@ -5,5 +5,6 @@
   ],
   "cssTheme": "Minimal",
   "theme": "moonstone",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "baseFontSize": 16
 }
